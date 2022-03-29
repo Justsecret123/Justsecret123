@@ -9,7 +9,7 @@
 - **Engineering Diploma**, with a focus on Image Processing and Software Engineering **(with honours)**
 - **MSc. in Computer Science**, focusing on Information Technology and Web **(with honours)**
 
-### 📫 How to reach me: 
+### 📫 How to reach me
 
 - **E-mail :** ibrahimserouis99@hotmail.com
 - **LinkedIn :** [link](https://www.linkedin.com/in/ibrahim-serouis-b05378181/)
