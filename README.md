@@ -12,8 +12,11 @@
 ### 📫 How to reach me
 
 - **E-mail :** ibrahimserouis99@hotmail.com
-- **LinkedIn :** [link](https://www.linkedin.com/in/ibrahim-serouis-b05378181/)
 - **Kaggle :** [link](https://www.kaggle.com/ibrahimserouis99)
+
+<a href="https://www.linkedin.com/in/ibrahim-serouis-b05378181">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <!--
 **Justsecret123/Justsecret123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
