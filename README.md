@@ -6,8 +6,8 @@
 
 ### Background 🏫🎓
 
-- **Engineering Diploma**, with a focus on Image Processing and Software Engineering **(with honours)**
-- **MSc. in Computer Science**, focusing on Information Technology and Web **(with honours)**
+- **Engineering Diploma**, with a focus on Image Processing and Software Engineering **(with honors)**
+- **MSc. in Computer Science**, focusing on Information Technology and Web **(with honors)**
 
 ### 📫 How to reach me
 
