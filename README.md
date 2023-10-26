@@ -12,7 +12,7 @@
 
 ### 📫 How to reach me
 
-- **E-mail :** ibrahimserouis99@hotmail.com
+- **E-mail :** Ibrahim.Mohamed-Serouis@irit.fr
 - **Kaggle :** [link](https://www.kaggle.com/ibrahimserouis99)
 
 <a href="https://www.linkedin.com/in/ibrahim-serouis-b05378181">
