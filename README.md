@@ -9,7 +9,7 @@
 - PhD in Computer Science (ongoing) : AI, ML, Data Science, Multimedia Analysis, Computer Vision
 - **Engineering Diploma**, with a focus on Image Processing and Software Engineering **(with high honors)**
 - **MSc. in Computer Science**, focusing on Information Technology and Web **(with high honors)**
-- **PhD in Artificial Intelligence, focusing on Multimodal scene analysis**
+- **PhD in Artificial Intelligence**, focusing on Multimodal scene analysis
 
 ### 📫 How to reach me
 
