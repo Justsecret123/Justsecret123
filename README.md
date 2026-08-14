@@ -1,22 +1,22 @@
 ### Hi there, I'm Ibrahim SEROUIS 👋
 (You can call me "Ibrah" 🙂)
 
-- **Gender :** Male
-- **Favorite tech stack :** Python + ML/Deep Learning + Computer Vision + Tensorflow
+- **Gender:** Male
+- **Favorite tech stack:** Python + ML/Deep Learning + Computer Vision + PyTorch/Tensorflow
 
 ### Background 🏫🎓
 
-- PhD in Computer Science (ongoing) : AI, ML, Data Science, Multimedia Analysis, Computer Vision
+- **PhD in Multimodal AI**
 - **Engineering Diploma**, with a focus on Image Processing and Software Engineering **(with high honors)**
 - **MSc. in Computer Science**, focusing on Information Technology and Web **(with high honors)**
 - **PhD in Artificial Intelligence**, focusing on Multimodal scene analysis
 
 ### 📫 How to reach me
 
-- **E-mail :** Ibrahim.Mohamed-Serouis@irit.fr
+- **E-mail :** ibrahim.mohamed-serouis@talan.com
 - **Kaggle :** [link](https://www.kaggle.com/ibrahimserouis99)
 
-<a href="https://www.linkedin.com/in/ibrahim-serouis-b05378181">
+<a href="https://www.linkedin.com/in/ibrahim-serouis/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
