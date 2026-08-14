@@ -6,10 +6,9 @@
 
 ### Background 🏫🎓
 
-- **PhD in Multimodal AI**
-- **Engineering Diploma**, with a focus on Image Processing and Software Engineering **(with high honors)**
-- **MSc. in Computer Science**, focusing on Information Technology and Web **(with high honors)**
-- **PhD in Artificial Intelligence**, focusing on Multimodal scene analysis
+- **PhD in Multimodal AI**, focusing on Multimodal Scene Understanding
+- **Engineering Diploma**, with a focus on Image Processing and Software Engineering **(valedictorian, with high honors)**
+- **MSc. in Computer Science**, focusing on Information Technology and Web **(valedictorian, with high honors)**
 
 ### 📫 How to reach me
 
